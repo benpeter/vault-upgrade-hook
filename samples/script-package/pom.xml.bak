@@ -8,13 +8,12 @@
     <parent>
         <groupId>biz.netcentric.vlt.upgrade</groupId>
         <artifactId>vault-upgrade-hook-samples</artifactId>
-        <version>1.0.4-AEM65</version>
+        <version>1.0.4-SNAPSHOT</version>
     </parent>
 
-    <artifactId>sample-userpreferences-package</artifactId>
+    <artifactId>sample-script-package</artifactId>
     <packaging>content-package</packaging>
 
-    <name>Vault Upgrade Hook :: Samples :: Sample User Preferences Package</name>
+    <name>Vault Upgrade Hook :: Samples :: Sample Sling Script Package</name>
 
-    
 </project>

@@ -7,7 +7,7 @@
 
     <groupId>biz.netcentric.vlt.upgrade</groupId>
     <artifactId>vault-upgrade-hook-reactor</artifactId>
-    <version>1.0.4-AEM65</version>
+    <version>1.0.4-SNAPSHOT</version>
     
     <packaging>pom</packaging>
 
